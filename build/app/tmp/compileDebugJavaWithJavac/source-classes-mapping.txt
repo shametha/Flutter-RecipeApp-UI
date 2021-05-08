@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/shametha_cookbook/BuildConfig.java
+ com.example.shametha_cookbook.BuildConfig
