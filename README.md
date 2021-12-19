@@ -1,6 +1,6 @@
 # Recipe-App -UI/UX
 
-A flutter application where users worldwide can share and view recipes from other users.
+A flutter application where users worldwide can share and view recipes from other users. This application has a great UI.
 <br><br>
 **Home Screen** 
 <br><br>
